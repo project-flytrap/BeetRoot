@@ -9,3 +9,7 @@
   transform: translateX(-50%);
   margin-left: 50%;
 }
+.card {
+  width: clamp(500px, 50vw, 1000px);
+  margin: 0 auto;
+}

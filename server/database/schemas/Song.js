@@ -1,38 +1,38 @@
-const mongoose = require('mongoose');
+const mongoose = require("mongoose");
 
 const songSchema = new mongoose.Schema({
   artist: {
     type: mongoose.SchemaTypes.ObjectId,
-    required: true
+    required: true,
   },
   genre: {
     type: mongoose.SchemaTypes.ObjectId,
-    required: true
+    required: true,
   },
   title: {
     type: String,
-    required: true
+    required: true,
   },
   duration: {
     type: Number,
-    required: true
+    required: true,
   },
   explicit: {
     type: Boolean,
-    required: true
+    required: true,
   },
   license: {
     type: String,
-    required: true
+    required: true,
   },
   description: {
     type: String,
-    required: true
+    required: true,
   },
   published: {
     type: mongoose.SchemaTypes.Date,
     default: () => Date.now(),
-    required: true
+    required: true,
   },
   coverArt: {
     type: String,
@@ -40,23 +40,23 @@ const songSchema = new mongoose.Schema({
   likes: {
     type: Number,
     default: 0,
-    min: 0
+    min: 0,
   },
   shares: {
     type: Number,
     default: 0,
-    min: 0
+    min: 0,
   },
   purchases: {
     type: Number,
     default: 0,
-    min: 0
+    min: 0,
   },
   streams: {
     type: Number,
     default: 0,
-    min: 0
-  }
+    min: 0,
+  },
 });
 
-module.exports = mongoose.model('Song', songSchema);
+module.exports = mongoose.model("Song", songSchema);

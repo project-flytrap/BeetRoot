@@ -1,14 +1,14 @@
-const mongoose = require('mongoose');
-// Library Schema
+const mongoose = require("mongoose");
+
 const librarySchema = new mongoose.Schema({
   owner: {
     type: mongoose.SchemaTypes.ObjectId,
-    required: true
+    required: true,
   },
   purchasedSongs: {
     type: [mongoose.SchemaTypes.ObjectId],
-    required: true
-  }
+    required: true,
+  },
 });
 
-module.exports = mongoose.model('Library', librarySchema);
+module.exports = mongoose.model("Library", librarySchema);

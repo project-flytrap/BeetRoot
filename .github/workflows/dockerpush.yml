@@ -46,7 +46,7 @@ jobs:
           tags: hedgineering/beetroot:latest
   update-ssh-linode:
     name: Telling Linode Server To Update
-    needs: push-to-registry
+    needs: push_to_registry
     runs-on: ubuntu-latest
     steps:
     - name: executing remote ssh commands using password

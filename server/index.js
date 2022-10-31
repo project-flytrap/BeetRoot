@@ -6,7 +6,7 @@ const rootDir = path.resolve(__dirname, '.');
 const env = require('dotenv').config( { path: `${rootDir}/.env` } ).parsed;
 
 if(!env) {
-  throw new Error('Environment variables file not found');
+  console.log('Environment variables file not found');
 }
 
 const server_port = env['PORT'] || 5000;
@@ -28,13 +28,7 @@ const app = express();
 
 // GET for root directory (default)
 app.get('/', (req, res) => {
-  readFile('./index.html', (err, data) => {
-    if(err) {
-      res.status(500).send('Error loading index.html');
-    } else {
-      res.send(data);
-    }
-  });
+  res.sendFile(path.join(__dirname, 'index.html'));
 });
 
 // This comes at the end as this starts the server

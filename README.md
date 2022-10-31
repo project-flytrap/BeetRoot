@@ -9,43 +9,62 @@ This application uses CI/CD through Netlify for the front end and CI/CD through 
 This counter was made to the specification of the Semester Project as a part of ECE452 Software Engineering.
 ## Authors
 
-#### Rahul Hegde
-- [Github](https://www.github.com/Hedgineering)
-- [Website](https://www.hedgineering.com/)
-- [LinkedIn](https://www.linkedin.com/in/rahul-anant-hegde/)
+#### Rahul Hegde 
+| GitHub | Website | LinkedIn |
+|:------:|:-------:|:--------:|
+|[![GitHub](./client/public/generic_icons/github.svg)](https://www.GitHub.com/Hedgineering) | [![Website](./client/public/generic_icons/globe.svg)](https://www.hedgineering.com/) | [![LinkedIn](./client/public/generic_icons/linkedin.svg)](https://www.linkedin.com/in/rahul-anant-hegde/)
 
 #### Sharad Prasad
-- [Github](https://github.com/sharadp1415)
+| GitHub | Website | LinkedIn |
+|:------:|:-------:|:--------:|
+|[![GitHub](./client/public/generic_icons/github.svg)](https://GitHub.com/sharadp1415) | [![Website](./client/public/generic_icons/globe.svg)]() | [![LinkedIn](./client/public/generic_icons/linkedin.svg)]()
 
 #### Daniel Lee
-- [Github](https://github.com/I-isDan)
+| GitHub | Website | LinkedIn |
+|:------:|:-------:|:--------:|
+|[![GitHub](./client/public/generic_icons/github.svg)](https://GitHub.com/I-isDan) | [![Website](./client/public/generic_icons/globe.svg)]() | [![LinkedIn](./client/public/generic_icons/linkedin.svg)]()
 
 #### Ryan King
-- [Github]()
+| GitHub | Website | LinkedIn |
+|:------:|:-------:|:--------:|
+|[![GitHub](./client/public/generic_icons/github.svg)]() | [![Website](./client/public/generic_icons/globe.svg)]() | [![LinkedIn](./client/public/generic_icons/linkedin.svg)]()
 
 #### Victoria Chen
-- [Github](https://github.com/JustALoafOfBeans)
+| GitHub | Website | LinkedIn |
+|:------:|:-------:|:--------:|
+|[![GitHub](./client/public/generic_icons/github.svg)](https://GitHub.com/JustALoafOfBeans) | [![Website](./client/public/generic_icons/globe.svg)]() | [![LinkedIn](./client/public/generic_icons/linkedin.svg)]()
 
 #### Kerry Li
-- [Github](https://github.com/EVTrainer36122)
+| GitHub | Website | LinkedIn |
+|:------:|:-------:|:--------:|
+|[![GitHub](./client/public/generic_icons/github.svg)](https://GitHub.com/EVTrainer36122) | [![Website](./client/public/generic_icons/globe.svg)]() | [![LinkedIn](./client/public/generic_icons/linkedin.svg)]()
 
 #### Daniel Gameiro
-- [Github](https://github.com/dangameiro)
+| GitHub | Website | LinkedIn |
+|:------:|:-------:|:--------:|
+|[![GitHub](./client/public/generic_icons/github.svg)](https://GitHub.com/dangameiro) | [![Website](./client/public/generic_icons/globe.svg)]() | [![LinkedIn](./client/public/generic_icons/linkedin.svg)]()
 
 #### Akhil Reddy
-- [Github](https://github.com/akhilvreddy)
-- [LinkedIn](https://www.linkedin.com/in/akhilvreddy/)
+| GitHub | Website | LinkedIn |
+|:------:|:-------:|:--------:|
+|[![GitHub](./client/public/generic_icons/github.svg)](https://GitHub.com/akhilvreddy) |  [![Website](./client/public/generic_icons/globe.svg)]() | [![LinkedIn](./client/public/generic_icons/linkedin.svg)](https://www.linkedin.com/in/akhilvreddy/)
 
 #### Daniel Chen
-- [Github](https://github.com/PeteyPiranha)
+| GitHub | Website | LinkedIn |
+|:------:|:-------:|:--------:|
+|[![GitHub](./client/public/generic_icons/github.svg)](https://GitHub.com/PeteyPiranha) | [![Website](./client/public/generic_icons/globe.svg)]() | [![LinkedIn](./client/public/generic_icons/linkedin.svg)]()
 
 #### David Nageb
-- [Github](https://github.com/Davidsam007)
+| GitHub | Website | LinkedIn |
+|:------:|:-------:|:--------:|
+|[![GitHub](./client/public/generic_icons/github.svg)](https://GitHub.com/Davidsam007) | [![Website](./client/public/generic_icons/globe.svg)]() | [![LinkedIn](./client/public/generic_icons/linkedin.svg)]()
 
 #### Andrew Chacko
-- [Github](https://github.com/darkChackolate)
+| GitHub | Website | LinkedIn |
+|:------:|:-------:|:--------:|
+|[![GitHub](./client/public/generic_icons/github.svg)](https://GitHub.com/darkChackolate) | [![Website](./client/public/generic_icons/globe.svg)]() | [![LinkedIn](./client/public/generic_icons/linkedin.svg)]()
 
 #### Bryan Plaza
-- [Github](https://github.com/BSPLAZA)
-
-
+| GitHub | Website | LinkedIn |
+|:------:|:-------:|:--------:|
+|[![GitHub](./client/public/generic_icons/github.svg)](https://GitHub.com/BSPLAZA) | [![Website](./client/public/generic_icons/globe.svg)]() | [![LinkedIn](./client/public/generic_icons/linkedin.svg)]()

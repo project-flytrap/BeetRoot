@@ -9,7 +9,7 @@ if(!env) {
   console.log('Environment variables file not found');
 }
 
-const server_port = env['PORT'] || 5000;
+const server_port = process.env.PORT || env['PORT'] || 5000;
 
 // if .env file loaded properly, this should print 3000, else it will print 5000
 console.log(`Server configured for port ${server_port}`); 

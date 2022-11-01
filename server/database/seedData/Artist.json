@@ -1,0 +1,7 @@
+[
+  { "_id": 41, "user": 14, "genre": 31, "songs": [] },
+  { "_id": 42, "user": 15, "genre": 32, "songs": [] },
+  { "_id": 43, "user": 16, "genre": 33, "songs": [] },
+  { "_id": 44, "user": 17, "genre": 34, "songs": [] },
+  { "_id": 45, "user": 18, "genre": 32, "songs": [] }
+]

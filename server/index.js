@@ -18,7 +18,6 @@ console.log(`Server configured for port ${server_port}`);
 // General Require Statements
 // ==========================
 const express = require('express');
-const { readFile } = require('fs');
 
 const app = express();
 

@@ -1,0 +1,5 @@
+[
+  { "_id": 1, "clearanceLevel": 1, "name": "Listener" },
+  { "_id": 2, "clearanceLevel": 1, "name": "Artist" },
+  { "_id": 3, "clearanceLevel": 2, "name": "Admin" }
+]

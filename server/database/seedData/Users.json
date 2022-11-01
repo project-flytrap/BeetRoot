@@ -11,5 +11,7 @@
   { "_id": 20, "roles":[1], "username": "rrisely9", "first_name": "Roi", "last_name": "Risely", "email": "rrisely9@dell.com", "password": "ZZDlEFigOYNE", "status": "Probation" },
   { "_id": 21, "roles":[1], "username": "rmauchlinea", "first_name": "Rudd", "last_name": "Mauchline", "email": "rmauchlinea@icio.us", "password": "L4e6LIWoe", "status": "Normal" },
   { "_id": 22, "roles":[1], "username": "bbowkerb", "first_name": "Boote", "last_name": "Bowker", "email": "bbowkerb@lycos.com", "password": "0PpfFrjAvqn", "status": "Probation" },
-  { "_id": 23, "roles":[1], "username": "rheintzschc", "first_name": "Reagan", "last_name": "Heintzsch", "email": "rheintzschc@slideshare.net", "password": "Et7DW86", "status": "Banned" }, { "username": "bproudlerd", "first_name": "Bruis", "last_name": "Proudler", "email": "bproudlerd@toplist.cz", "password": "rFnFBGiM", "status": "Probation" }, { "username": "mcockmane", "first_name": "Moishe", "last_name": "Cockman", "email": "mcockmane@google.es", "password": "10cpEv0", "status": "Banned" } 
+  { "_id": 23, "roles":[1], "username": "rheintzschc", "first_name": "Reagan", "last_name": "Heintzsch", "email": "rheintzschc@slideshare.net", "password": "Et7DW86", "status": "Banned" }, 
+  { "_id": 24, "roles":[1], "username": "bproudlerd", "first_name": "Bruis", "last_name": "Proudler", "email": "bproudlerd@toplist.cz", "password": "rFnFBGiM", "status": "Probation" }, 
+  { "_id": 25, "roles":[1], "username": "mcockmane", "first_name": "Moishe", "last_name": "Cockman", "email": "mcockmane@google.es", "password": "10cpEv0", "status": "Banned" } 
 ]
